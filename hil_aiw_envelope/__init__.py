@@ -1,0 +1,1 @@
+"""Public envelope package (MIT)."""
